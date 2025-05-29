@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/github/last-commit/Projetos-Grupo-01/GarfoeGo?style=flat-square" />
 <img src="https://img.shields.io/github/issues/Projetos-Grupo-01/GarfoeGo?style=flat-square" />
 <img src="https://img.shields.io/github/issues-pr/Projetos-Grupo-01/GarfoeGo?style=flat-square" />
-<img src="https://img.shields.io/badge/status-construção-yellow" alt="Status: Em Construção">
+<img src="https://img.shields.io/badge/status-Concluido-green" alt="Status: Concluído">
  
 </div>
 
